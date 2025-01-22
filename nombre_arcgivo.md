@@ -5,3 +5,4 @@ Mkdir
 Clear
 ls
 git status
+git commit -m
